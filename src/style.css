@@ -58,3 +58,13 @@ li::first-letter {
   font-size: 16px;
   top: -34px;
 }
+
+.weather-tempreture .active {
+  color: rgb(33, 33, 33);
+  cursor: default;
+  text-decoration: none;
+}
+
+.weather-tempreture .active:hover {
+  text-decoration: none;
+}
